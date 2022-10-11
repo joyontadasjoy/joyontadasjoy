@@ -24,4 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyontadasjoy&show_icons=true&locale=en&layout=compact" alt="joyontadasjoy" /></p>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joyontadasjoy)  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyontadasjoy&show_icons=true&locale=en" alt="joyontadasjoy" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyontadasjoy)  
+
