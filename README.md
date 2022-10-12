@@ -27,5 +27,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joyontadasjoy)  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyontadasjoy&show_icons=true&locale=en" alt="joyontadasjoy" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyontadasjoy)  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmvwlaxkhn6esm4kira2ews5rq&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
