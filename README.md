@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on [Face Detection Using OpenCV](https://github.com/joyontadasjoy/Face-Detection-OpenCV)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Arduino, Electronics**
 
