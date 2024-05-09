@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
-- 🔭 I’m currently working on [Face Detection Using OpenCV](https://github.com/joyontadasjoy/Face-Detection-OpenCV)
-
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working on BioPhotonics
 
 - 💬 Ask me about **Arduino, Electronics**
 
@@ -16,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/das_joyonta_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="das_joyonta_joy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joyontadasjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joyontadasjoy" height="30" width="40" /></a>
 
 </p>
