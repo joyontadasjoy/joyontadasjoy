@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
-- 🔭 I’m currently working on BioPhotonics
-
-- 💬 Ask me about **Arduino, Electronics**
+- 🔭 I’m currently working on Photonics
 
 - 📫 How to reach me **dasjoyjoyonta@gmail.com**
 
