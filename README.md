@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joyonta Das Joy</h1>
 
 <!-- Dark-Mode UiA Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joyontadasjoy/assets/main/uia_dark.png"
-       alt="UiA Logo" width="240">
-</p>
+
 
 <h3 align="center">M.Sc. Renewable Energy @ University of Agder (UiA)</h3>
 <h4 align="center">Photonics • Energy Materials • ML for Materials</h4>
-
-<img align="right" alt="Coding" width="330"
-src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
----
 
 <!-- Dark Academic Badges -->
 <p align="center">
