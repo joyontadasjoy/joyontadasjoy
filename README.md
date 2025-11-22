@@ -19,8 +19,6 @@
 ### 🔬 About Me
 - 🎓 Graduate student in **Renewable Energy**, **UiA, Norway**
 - 🔭 Working on **Photonics, Energy Materials & ML for Materials**
-- 🧪 Focus: **2D materials, thin-film devices, optical modeling, storage systems**
-- 🛠️ Tools: **COMSOL FEM, FDTD, MATLAB, Python, PyTorch**
 - 📫 Email: **dasjoyjoyonta@gmail.com**
 
 ---
