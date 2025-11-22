@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/UiA-M.Sc._Renewable_Energy-b31b1b?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Engineering-EEE_(B.Sc)-0a84ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research-Photonics_|_Energy_Materials_|_ML-1a1a1a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Norway-Grimstad-ff4655?style=for-the-badge" />
 </p>
 
